@@ -1,0 +1,10 @@
+*.pyc
+*.safetensorssrc/peft/
+cache/
+cache2/
+log/
+output/
+results/
+debug/
+README2.md
+*2.sh
